@@ -39,7 +39,7 @@ To create an Amazon S3 bucket, upload a file, make it publicly accessible, and v
 | 1 | Bucket creation | ![Bucket Creation](https://github.com/Ashwinigrathod/task1/blob/3c1f0a212c5e57842e8c10fba4ff8a097d04792b/Screenshot%20(5).png) |
 | 2 | File upload | ![File Upload](https://github.com/Ashwinigrathod/task1/blob/adb9113da30d57d4b5212625484b67167c9490a3/Screenshot%20(6).png) |
 | 3 | Public access setup | ![Permissions](https://github.com/Ashwinigrathod/task1/blob/bf648fbe3a9602781df07d7d1709ddebb15ef735/Screenshot%20(7).png) |
-| 4 | File accessible in browser | ![File URL](screenshot8.png) |
+| 4 | File accessible in browser | ![File URL](https://github.com/Ashwinigrathod/task1/blob/ad7f48d3134f5fa63ff5feaffe4622e9a3e52e24/Screenshot%20(8).png) |
 
 ---
 
