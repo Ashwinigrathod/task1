@@ -36,10 +36,10 @@ To create an Amazon S3 bucket, upload a file, make it publicly accessible, and v
 ## 🖼️ Screenshots
 | Step | Description | Screenshot |
 |------|--------------|-------------|
-| 1 | Bucket creation | ![Bucket Creation](screenshot1.png) |
-| 2 | File upload | ![File Upload](screenshot2.png) |
-| 3 | Public access setup | ![Permissions](screenshot3.png) |
-| 4 | File accessible in browser | ![File URL](screenshot4.png) |
+| 1 | Bucket creation | ![Bucket Creation](screenshot5.png) |
+| 2 | File upload | ![File Upload](screenshot6.png) |
+| 3 | Public access setup | ![Permissions](screenshot7.png) |
+| 4 | File accessible in browser | ![File URL](screenshot8.png) |
 
 ---
 
